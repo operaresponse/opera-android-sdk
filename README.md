@@ -52,7 +52,7 @@ or use gradle dependencies
     {
         "sig": <opera publisher sig>, 
         "width": 320, 
-        "height": 50
+        "height": 480
     }
 ```
 
