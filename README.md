@@ -22,7 +22,7 @@ Get Started
 
 3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network and plugin following settings:
 
-** Banner Setup **
+**Banner Setup**
 - Custom class name for Banner Ads: com.operamediaworks.android.OperaEventBanner
 - Custom data for Banner Ads: 
 ```{
@@ -31,7 +31,7 @@ Get Started
 "height": 50
 }```
 
-** Interstitial Setup **
+**Interstitial Setup**
 - Custom class name for Banner Ads: com.operamediaworks.android.OperaInterstitial
 - Custom data for Interstitial Ads: 
 ```{
