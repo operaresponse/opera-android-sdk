@@ -22,6 +22,14 @@ Get Started
 
 3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network and plugin following settings:
 
+- Custom class name for Banner Ads: com.operamediaworks.android.OperaEventBanner
+- Custom data for Banner Ads: 
+`{
+"sig": <opera publisher sig>, 
+"width": 320, 
+"height": 50
+}`
+
 Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki) for more details on optimizing your revenue with the Opera Android SDK.
 
 Issues
