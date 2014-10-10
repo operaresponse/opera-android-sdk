@@ -22,7 +22,7 @@ Get Started
 
 3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network and plugin following settings:
 
-Checkout the Wiki for more details on optimizing your revenue with the Opera Android SDK.
+Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki) for more details on optimizing your revenue with the Opera Android SDK.
 
 Issues
 ======
