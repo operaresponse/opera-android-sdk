@@ -59,6 +59,11 @@ or use gradle dependencies
 
 Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki) for more details on optimizing your revenue with the Opera Android SDK.
 
+Demo Apps
+=========
+
+`Demo Apps/Motorgator` app demos banners and interstitials.
+
 Issues
 ======
 
