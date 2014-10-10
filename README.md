@@ -15,14 +15,14 @@ Get Started
 
 1. Download the jar file from Library folder or download the entire project with the [**Download ZIP**](https://github.com/operaresponse/opera-android-sdk/archive/master.zip) button on this page.
 
-2. Copy the Library/opera-sdk.jar into your libs folder. Be sure that the libs folder is on your build classpath. 
+2. Copy the `Library/opera-sdk.jar` into your libs folder. Be sure that the libs folder is on your build classpath. 
 
 3. Add following libs to your classpath from the Library folder:
-
+```
 - retrofit-1.6.1.jar
 - okhttp-2.0.0.jar
 - okhttp-urlconnection-2.0.0.jar
-
+```
 or use gradle dependencies
 
 ```
