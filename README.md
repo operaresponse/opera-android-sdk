@@ -2,6 +2,7 @@ Opera Android SDK
 =================
 
 Updated: October 10, 2014
+
 Version: 0.1d
 
 About
