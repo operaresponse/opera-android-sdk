@@ -35,20 +35,26 @@ or use gradle dependencies
 **Banner Setup**
 - Custom class name for Banner Ads: com.operamediaworks.android.OperaEventBanner
 - Custom data for Banner Ads: 
-```{
-"sig": <opera publisher sig>, 
-"width": 320, 
-"height": 50
-}```
+
+```
+    {
+        "sig": <opera publisher sig>, 
+        "width": 320, 
+        "height": 50
+    }
+```
 
 **Interstitial Setup**
 - Custom class name for Banner Ads: com.operamediaworks.android.OperaInterstitial
 - Custom data for Interstitial Ads: 
-```{
-"sig": <opera publisher sig>, 
-"width": 320, 
-"height": 50
-}```
+
+```
+    {
+        "sig": <opera publisher sig>, 
+        "width": 320, 
+        "height": 50
+    }
+```
 
 Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki) for more details on optimizing your revenue with the Opera Android SDK.
 
