@@ -1,4 +1,4 @@
-Opera Android SDK
+Opera Response Android SDK
 =================
 
 Updated: October 10, 2014
@@ -8,7 +8,7 @@ Version: 0.1d
 About
 =====
 
-The Opera Android SDK works with MoPub SDK. Integration process is very simple. Download the sdk jar file into your libs folder. Setup your Ad Units on MoPub dashboard. And that's all. No other confguration or code is required.
+The Opera Response Android SDK works with MoPub SDK. Integration process is very simple. Download the sdk jar file into your libs folder. Setup your Ad Units on MoPub dashboard. And that's all. No other confguration or code is required.
 
 Get Started
 ===========
