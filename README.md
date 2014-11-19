@@ -17,21 +17,7 @@ Get Started
 
 2. Copy the `Library/opera-sdk.jar` into your libs folder. Be sure that the libs folder is on your build classpath. 
 
-3. Add following jars to your libs folder from the Library folder:
-```
-- retrofit-1.6.1.jar
-- okhttp-2.0.0.jar
-- okhttp-urlconnection-2.0.0.jar
-```
-or use gradle dependencies
-
-```
-    compile 'com.squareup.retrofit:retrofit:1.6.1'
-    compile 'com.squareup.okhttp:okhttp-urlconnection:2.0.0'
-    compile 'com.squareup.okhttp:okhttp:2.0.0'
-```
-
-4. Setup your Ad Units in MoPub dashboard with either Line Items or a Network and plugin following settings:
+3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network and plugin following settings:
 
 **Banner Setup**
 - Custom class name for Banner Ads: com.operamediaworks.android.OperaEventBanner
