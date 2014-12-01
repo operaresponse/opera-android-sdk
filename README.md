@@ -13,42 +13,16 @@ The Opera Response Android SDK works with MoPub SDK. Integration process is very
 Get Started
 ===========
 
-1. Download the jar file from Library folder or download the entire project with the [**Download ZIP**](https://github.com/operaresponse/opera-android-sdk/archive/master.zip) button on this page.
+1. Download the jar file from `Library/opera-sdk.jar`.
 
-2. Copy the `Library/opera-sdk.jar` into your libs folder. Be sure that the libs folder is on your build classpath. 
+2. Copy the jar file into your libs folder. Be sure that the libs folder is on your build classpath. 
 
-3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network and plugin following settings:
-
-**Banner Setup**
-- Custom class name for Banner Ads: com.operamediaworks.android.OperaEventBanner
-- Custom data for Banner Ads: 
-
-```
-    {
-        "sig": <opera publisher sig>, 
-        "width": 320, 
-        "height": 50
-    }
-```
-
-**Interstitial Setup**
-- Custom class name for Banner Ads: com.operamediaworks.android.OperaInterstitial
-- Custom data for Interstitial Ads: 
-
-```
-    {
-        "sig": <opera publisher sig>, 
-        "width": 320, 
-        "height": 480
-    }
-```
+3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network.
 
 Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki) for more details on optimizing your revenue with the Opera Android SDK.
 
 Demo Apps
 =========
-
-`Demo Apps/Motorgator` app demos banners and interstitials.
 
 Issues
 ======
