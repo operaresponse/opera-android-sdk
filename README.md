@@ -13,7 +13,7 @@ The Opera Response Android SDK works with MoPub SDK. Integration process is very
 Get Started
 ===========
 
-1. Download the jar file from `Library/opera-sdk.jar`.
+1. Download the [jar] (Library/opera-sdk.jar).
 
 2. Copy the jar file into your libs folder. Be sure that the libs folder is on your build classpath. 
 
