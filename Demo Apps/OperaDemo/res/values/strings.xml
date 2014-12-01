@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OperaTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="interstitial_ad_unit">1c59002eb0584e508e8c41fddd9d6cd7</string>
+    <string name="banner_ad_unit">e3a352dbe38744338b41b4b2f3774cd9</string>
+
+</resources>
