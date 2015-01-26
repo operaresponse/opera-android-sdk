@@ -1,7 +1,7 @@
 Opera Response Android SDK
 =================
 
-Updated: November 19, 2014
+Updated: January 26, 2015
 
 Version: 0.6d
 
@@ -19,6 +19,7 @@ Get Started
 
 3. Setup your Ad Units in MoPub dashboard with either Line Items or a Network.
 
+4. Optionally setup [Proguard] (https://github.com/operaresponse/opera-android-sdk/wiki/Android-SDK) to skip opera sdk jar
 Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki/Add-App-to-MoPub) for more details on optimizing your revenue with the Opera Android SDK.
 
 Demo Apps
