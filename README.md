@@ -1,9 +1,9 @@
 Opera Response Android SDK
 =================
 
-Updated: January 26, 2015
+Updated: February 10, 2015
 
-Version: 0.6d
+Version: 0.8d
 
 About
 =====
