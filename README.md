@@ -1,9 +1,9 @@
 Opera Response Android SDK
 =================
 
-Updated: February 10, 2015
+Updated: August 24, 2015
 
-Version: 0.8d
+Version: 0.10d
 
 About
 =====
@@ -21,6 +21,11 @@ Get Started
 
 4. Optionally setup [Proguard] (https://github.com/operaresponse/opera-android-sdk/wiki/Android-SDK) to skip opera sdk jar
 Checkout the [Wiki](https://github.com/operaresponse/opera-android-sdk/wiki/Add-App-to-MoPub) for more details on optimizing your revenue with the Opera Android SDK.
+
+Changelog
+=========
+
+Support MoPub Android SDK Version 3.11.0
 
 Demo Apps
 =========
